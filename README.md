@@ -24,3 +24,25 @@ See directory structure above
 1. Clone this repo
 2. Install requirements: `pip install -r requirements.txt`
 3. Run Jupyter notebooks
+
+
+# Exploratory Data Analysis Projects
+
+This directory contains notebooks demonstrating comprehensive EDA techniques:
+
+## 1. Sales Data Analysis
+- Performed time series decomposition
+- Identified seasonal patterns
+- Conducted cohort analysis
+
+## 2. COVID-19 Trend Analysis
+- Country-wise case comparison
+- Vaccination progress tracking
+- Mortality rate correlations
+
+## EDA Checklist
+1. Data quality assessment
+2. Univariate analysis
+3. Bivariate analysis
+4. Multivariate analysis
+5. Feature correlations
